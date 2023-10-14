@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+
+  
+}
+
+.active{
+  color:red ;
+  text-decoration: none !important;
+  margin: 1rem;
+
+}
+
+.pokemon{
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
+}
+
+
+
+
+
